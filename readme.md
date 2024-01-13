@@ -6,6 +6,65 @@ RGB images are large
 
 This repository contains a dataset curated for [Project Name]. The dataset is designed to support [specific use case or research goal]. It includes a diverse collection of data that [briefly describe the scope and purpose of the dataset].
 
+
+## Overview
+
+This repository contains a dataset curated for Human activity analysis. The dataset is designed to support activity Discovery and recognition research and focuses on human activity recognition using Kinect. It includes a diverse collection of skeleton data that spans 17 activities performed by 4 subjects. The dataset details are as follows:
+
+- **Number of Subjects:** 4
+- **Total Activities:** 17
+- **Number of Skeleton Joints:** 20
+- **Kinect Version:** Kinect v1
+
+### Key Files
+
+- **Plot skeleton.py:** This script can be used to visualize the skeleton joints and their movements.
+
+### List of Activities
+
+1. Standing
+2. Raise Right Hand
+3. Raise Left Hand
+4. Kick Right Leg
+5. Kick Left Leg
+6. Waving Right Hand
+7. Waving Left Hand
+8. Jumping Jacks
+9. Walking
+10. Sitting Down
+11. Seated
+12. Standing Up
+13. Phone Call
+14. Drinking
+15. Pickup
+16. Sitting and Reading Book
+17. Use Broom
+
+### Joint IDs
+
+- `Hip Center`: 0
+- `Spine`: 1
+- `Shoulder Center`: 2
+- `Head`: 3
+- `Shoulder Left`: 4
+- `Elbow Left`: 5
+- `Wrist Left`: 6
+- `Hand Left`: 7
+- `Shoulder Right`: 8
+- `Elbow Right`: 9
+- `Wrist Right`: 10
+- `Hand Right`: 11
+- `Hip Left`: 12
+- `Knee Left`: 13
+- `Ankle Left`: 14
+- `Foot Left`: 15
+- `Hip Right`: 16
+- `Knee Right`: 17
+- `Ankle Right`: 18
+- `Foot Right`: 19
+
+We encourage users to explore the dataset and leverage the provided script for visualizing skeleton joints. If you have any questions or need further assistance, feel free to contact us.
+
 ## Contents
 
 The dataset is organized into the following folders:
@@ -34,7 +93,7 @@ If you use this dataset in your research or work, please cite it using the follo
 
 ## License
 
-The dataset is provided under the [specify the license under which the dataset is released].
+The dataset is provided under the GPL-3.0 license.
 
 ## Contact
 
