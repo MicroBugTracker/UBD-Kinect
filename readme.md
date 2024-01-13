@@ -21,6 +21,12 @@ The RGB and Depth images, each exceeding 10GB in size, have been excluded from t
 ## Citation
 
 If you use this dataset in your research or work, please cite it using the following format:
+@inproceedings{hossen2022investigation,
+  title={Investigation of the Unsupervised Machine Learning Techniques for Human Activity Discovery},
+  author={Hossen, Md Amran and Ong, Wee Hong and Caesarendra, Wahyu},
+  booktitle={2021 International Conference on Electronics, Biomedical Engineering, and Health Informatics (ICEBEHI2021)},
+  year={2022}
+}
 
 ```
 [Dataset Citation]
