@@ -1,0 +1,49 @@
+Dataset details: 
+Activities are performed by 3 subjects and a total of 17 activities. 
+Number of skeleton joints: 20 
+Kinet version: Kinect v1
+
+Key files: 
+Plot skeleton 
+
+List of activities: 
+1	Standing
+2	Raise Right Hand
+3	Raise Left Hand
+4	Kick Right leg
+5	Kick Left leg
+6	waving right hand
+7	waving Left hand
+8	jumping jacks
+9	Walking
+10	Sitting down
+11	Seated
+12	standing up
+13	Phone call
+14	Drinking
+15	Pickup 
+16	Sitting and Reading Book
+17	use Broom
+
+Joint IDs 
+hip_center = HipCenter = 0
+spine = Spine = 1
+shoulder_center = ShoulderCenter = 2
+head = Head = 3
+shoulder_left = ShoulderLeft = 4
+elbow_left = ElbowLeft = 5
+wrist_left = WristLeft = 6
+hand_left = HandLeft = 7
+shoulder_right = ShoulderRight = 8
+elbow_right = ElbowRight = 9 
+wrist_right = WristRight = 10
+hand_right = HandRight = 11
+hip_left = HipLeft = 12
+knee_left = KneeLeft = 13
+ankle_left = AnkleLeft = 14
+foot_left = FootLeft = 15 
+hip_right = HipRight = 16
+knee_right = KneeRight = 17
+ankle_right = AnkleRight = 18
+foot_right = FootRight = 19
+count = Count = 20 
