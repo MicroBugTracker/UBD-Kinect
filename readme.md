@@ -9,10 +9,13 @@ This repository contains a dataset curated for Human activity analysis. The data
 - **Number of Skeleton Joints:** 20
 - **Kinect Version:** Kinect v1
 
+![Skeleton Image](Sample_Skeleton_Images/s02_a08/skeleton_frame_35_s2_a08.svg)
+
+
 ### Key Files
 
-- **plot_skeleton.py:** This script can be used to visualize the skeleton joints and their movements.
-- [display_skeleton.md](display_skeleton.md)
+- **[plot_skeleton.py](plot_skeleton.py):** This script can be used to visualize the skeleton joints and their movements.
+- **[display_skeleton.md](display_skeleton.md):** Details on display skeleton  
 
 ### Required libraries 
 
