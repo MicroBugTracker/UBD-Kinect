@@ -100,6 +100,9 @@ If you use this dataset in your research or work, please cite it using the follo
 }
 ```
 
+## Keywords
+Kinect, Kinect Human activity Dataset, Human activity Discovery, Human activity Recognition, Kinect Dataset, Skeleton data, Skeleton visualization
+
 ## License
 
 The dataset is provided under the GPL-3.0 license.
