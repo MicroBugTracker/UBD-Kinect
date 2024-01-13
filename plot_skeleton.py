@@ -151,7 +151,7 @@ def showSingleFrame(frame_no, translation=True, single_frame=False):
 	ax.view_init(elev=114, azim=-90,roll=0)
 
 	# #Enable to save the figure
-	plt.savefig('skeleton_frame_'+str(frame_no) + '_s2_a08.svg')
+	# plt.savefig('skeleton_frame_'+str(frame_no) + '_s2_a08.svg')
 
 	if single_frame:
 		plt.show()

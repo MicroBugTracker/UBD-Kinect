@@ -1,11 +1,4 @@
-RGB images are large
-
 # Dataset Description
-
-## Overview
-
-This repository contains a dataset curated for [Project Name]. The dataset is designed to support [specific use case or research goal]. It includes a diverse collection of data that [briefly describe the scope and purpose of the dataset].
-
 
 ## Overview
 
