@@ -4,7 +4,7 @@ Number of skeleton joints: 20
 Kinet version: Kinect v1
 
 Key files: 
-Plot skeleton 
+Plot skeleton.py 
 
 List of activities: 
 1	Standing

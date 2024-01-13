@@ -20,7 +20,14 @@ This repository contains a dataset curated for Human activity analysis. The data
 
 - **Plot skeleton.py:** This script can be used to visualize the skeleton joints and their movements.
 
+### Folder Naming
+s = subject
+a = activity
+
+- **Example:** a folder name s01_a10 means subject 01 activity 10.
+
 ### List of Activities
+
 
 1. Standing
 2. Raise Right Hand
